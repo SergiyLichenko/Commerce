@@ -1,0 +1,30 @@
+c:\users\liche\documents\visual studio 2015\Projects\Commerce\Commerce\bin\Debug\Commerce.exe.config
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\Commerce\bin\Debug\Commerce.exe
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\Commerce\bin\Debug\Commerce.pdb
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\Commerce\bin\Debug\FoodMarket.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\Commerce\bin\Debug\FoodMarket.pdb
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\Commerce\obj\Debug\Commerce.csprojResolveAssemblyReference.cache
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\Commerce\obj\Debug\Commerce.exe
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\Commerce\obj\Debug\Commerce.pdb
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\Commerce\bin\Debug\log4net.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\Commerce\bin\Debug\log4net.xml
+F:\Projects\Commerce\Commerce\bin\Debug\Commerce.exe.config
+F:\Projects\Commerce\Commerce\obj\Debug\Commerce.exe
+F:\Projects\Commerce\Commerce\obj\Debug\Commerce.pdb
+F:\Projects\Commerce\Commerce\bin\Debug\Commerce.exe
+F:\Projects\Commerce\Commerce\bin\Debug\Commerce.pdb
+F:\Projects\Commerce\Commerce\bin\Debug\FoodMarket.dll
+F:\Projects\Commerce\Commerce\bin\Debug\log4net.dll
+F:\Projects\Commerce\Commerce\bin\Debug\FoodMarket.pdb
+F:\Projects\Commerce\Commerce\bin\Debug\log4net.xml
+F:\Projects\Commerce\Commerce\obj\Debug\Commerce.csprojResolveAssemblyReference.cache
+E:\Projects\Apps\Commerce\Commerce\bin\Debug\Commerce.exe.config
+E:\Projects\Apps\Commerce\Commerce\obj\Debug\Commerce.exe
+E:\Projects\Apps\Commerce\Commerce\obj\Debug\Commerce.pdb
+E:\Projects\Apps\Commerce\Commerce\bin\Debug\Commerce.exe
+E:\Projects\Apps\Commerce\Commerce\bin\Debug\Commerce.pdb
+E:\Projects\Apps\Commerce\Commerce\bin\Debug\FoodMarket.dll
+E:\Projects\Apps\Commerce\Commerce\bin\Debug\log4net.dll
+E:\Projects\Apps\Commerce\Commerce\bin\Debug\FoodMarket.pdb
+E:\Projects\Apps\Commerce\Commerce\bin\Debug\log4net.xml
+E:\Projects\Apps\Commerce\Commerce\obj\Debug\Commerce.csprojResolveAssemblyReference.cache

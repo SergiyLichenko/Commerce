@@ -1,0 +1,21 @@
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\FoodMarket\bin\Debug\FoodMarket.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\FoodMarket\bin\Debug\FoodMarket.pdb
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\FoodMarket\obj\Debug\FoodMarket.csprojResolveAssemblyReference.cache
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\FoodMarket\obj\Debug\FoodMarket.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\FoodMarket\obj\Debug\FoodMarket.pdb
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\FoodMarket\bin\Debug\log4net.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\Commerce\FoodMarket\bin\Debug\log4net.xml
+F:\Projects\Commerce\FoodMarket\bin\Debug\FoodMarket.dll
+F:\Projects\Commerce\FoodMarket\bin\Debug\FoodMarket.pdb
+F:\Projects\Commerce\FoodMarket\bin\Debug\log4net.dll
+F:\Projects\Commerce\FoodMarket\bin\Debug\log4net.xml
+F:\Projects\Commerce\FoodMarket\obj\Debug\FoodMarket.csprojResolveAssemblyReference.cache
+F:\Projects\Commerce\FoodMarket\obj\Debug\FoodMarket.dll
+F:\Projects\Commerce\FoodMarket\obj\Debug\FoodMarket.pdb
+E:\Projects\Apps\Commerce\FoodMarket\bin\Debug\FoodMarket.dll
+E:\Projects\Apps\Commerce\FoodMarket\bin\Debug\FoodMarket.pdb
+E:\Projects\Apps\Commerce\FoodMarket\bin\Debug\log4net.dll
+E:\Projects\Apps\Commerce\FoodMarket\bin\Debug\log4net.xml
+E:\Projects\Apps\Commerce\FoodMarket\obj\Debug\FoodMarket.csprojResolveAssemblyReference.cache
+E:\Projects\Apps\Commerce\FoodMarket\obj\Debug\FoodMarket.dll
+E:\Projects\Apps\Commerce\FoodMarket\obj\Debug\FoodMarket.pdb
